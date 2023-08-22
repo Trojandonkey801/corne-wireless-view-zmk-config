@@ -53,10 +53,10 @@
 
             label = "Raise";
             bindings = <
-&kp GRAVE  &kp EXCL     &kp AT   &kp LEFT_PARENTHESIS   &kp LEFT_BRACKET     &kp PRCNT    &kp K_PREVIOUS  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9       &kp RPAR         &kp BSPC
-&kp LCTRL  &kp PLUS  &kp MINUS         &kp UNDERSCORE          &kp EQUAL        &trans          &kp K_PP  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6       &kp CAPS        &kp GRAVE
-&kp LSHFT    &trans     &trans  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET        &trans        &kp C_NEXT  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp BACKSLASH  &kp RIGHT_SHIFT
-                                             &kp LGUI             &trans  &kp NUMBER_0           &kp RET        &trans      &kp RALT
+&kp GRAVE  &kp EXCL     &kp AT   &kp LEFT_PARENTHESIS   &kp LEFT_BRACKET     &kp PRCNT    &kp K_PREVIOUS  &kp NUMBER_7       &kp NUMBER_8  &kp NUMBER_9       &kp RPAR         &kp BSPC
+&kp LCTRL  &kp PLUS  &kp MINUS         &kp UNDERSCORE          &kp EQUAL        &trans          &kp K_PP  &kp NUMBER_4       &kp NUMBER_5  &kp NUMBER_6       &kp CAPS        &kp GRAVE
+&kp LSHFT    &trans     &trans  &kp RIGHT_PARENTHESIS  &kp RIGHT_BRACKET        &trans        &kp C_NEXT  &kp NUMBER_1       &kp NUMBER_2  &kp NUMBER_3  &kp BACKSLASH  &kp RIGHT_SHIFT
+                                             &kp LGUI             &trans  &kp NUMBER_0           &kp RET        &trans  &kp LC(RA(LG(E)))
             >;
         };
     };
