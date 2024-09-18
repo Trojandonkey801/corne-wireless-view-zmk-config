@@ -29,7 +29,7 @@
         a-gpios = <&pro_micro 10 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
         b-gpios = <&pro_micro 9 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
         steps = <20>;
-        status = "disabled";
+        status = "okay";
     };
  sensors: sensors {
         compatible = "zmk,keymap-sensors";
