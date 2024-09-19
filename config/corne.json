@@ -99,11 +99,11 @@
   },
   "sensors": [
     {
-      "ref": "bottom_encoder",
-      "name": "encoder_bottom",
-      "identifier": "encoder_bottom",
+      "ref": "encoder_right",
+      "name": "encoder_right",
+      "identifier": "encoder_right",
       "compatible": "alps,ec11",
-      "label": "BOTTOM_ENCODER"
+      "label": "ENCODER_RIGHT"
     }
   ]
 }
